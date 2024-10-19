@@ -1,0 +1,1 @@
+C:\Users\Sachu\Desktop\Study\Rust\temprature_converter\target\debug\temprature_converter.exe: C:\Users\Sachu\Desktop\Study\Rust\temprature_converter\src\lib.rs C:\Users\Sachu\Desktop\Study\Rust\temprature_converter\src\main.rs
